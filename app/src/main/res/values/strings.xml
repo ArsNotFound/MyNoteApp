@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name" translatable="false">MyNoteApp</string>
+
+    <string name="create_note_title">Create note</string>
+    <string name="edit_note_title">Edit note</string>
+    <string name="delete_title">Delete note</string>
+
+    <string name="enter_title_hint">Enter title…</string>
+    <string name="enter_text_hint">Enter text…</string>
+
+    <string name="empty_title_error">Title cannot be empty!</string>
+
+    <string name="delete_message">Do you want to delete note?</string>
+
+    <string name="delete_button_text">Delete</string>
+    <string name="cancel_button_text">Cancel</string>
+    <string name="create_button_text">Create</string>
+    <string name="search_button_text">Search</string>
+    <string name="add_button_text" translatable="false">Add</string>
+</resources>
